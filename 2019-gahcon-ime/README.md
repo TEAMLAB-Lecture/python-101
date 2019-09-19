@@ -22,15 +22,16 @@
     - Miniconda on Windows - [강의영상](https://www.youtube.com/watch?v=lqSNOIPGbns&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=5&t=44s)
     - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상](https://www.youtube.com/watch?v=cCxfLSIDfrk&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=6&t=19s)
     - Mac & Linux 설치 -  [설치문서](desc/atom_macos.md), [강의영상](https://www.youtube.com/watch?v=iKFB2O2ZfDo&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=7&t=0s)
-- Code Assignment: Arithmetic - [강의영상 for Mac & Linux](https://www.youtube.com/watch?v=KvV1tLlVX94&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=8&t=0s), [강의영상 for Windows](https://www.youtube.com/watch?v=QYF_e1XUIlU&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=9&t=134s)
+- Code Assignment: Arithmetic - [설명문서](https://github.com/TEAMLAB-Lecture/python-101/tree/master/2019-gahcon-ime/assignment/lab_1), [강의영상 for Windows](https://youtu.be/Qoid8G49zHI)
 
 ### 2주차: 메모리와 변수 (Memory & Variable)
 - 메모리와 변수 - [강의영상](https://www.youtube.com/watch?v=u3tOqQu6CVo&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=11&t=23s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9rS9WHdJz5uLMcMg)
 - 기본 자료형과 연산 - [강의영상](https://www.youtube.com/watch?v=oc3t35nwQU8&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=12&t=299s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9tNp4mzALR1ZiILA)
 - 자료형 변환 - [강의영상](https://www.youtube.com/watch?v=LmaPd-HGc_8&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=13&t=11s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaB3uPIYfh3lIuEtmA)
-- Code Assignment: Basic Operations - [강의영상 for Mac & Linux](https://www.youtube.com/watch?v=S1M2KESG-hY&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=14&t=3s), [강의영상 for Windows](https://www.youtube.com/watch?v=mfc9g0hnpGo&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=15&t=2s)
+- Code Assignment: Basic Operations - [설명문서](https://github.com/TEAMLAB-Lecture/python-101/tree/master/2019-gahcon-ime/assignment/lab_2), [강의영상 for Windows](https://youtu.be/uWDvBHv-icQ)
 
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
+- Function Concept I - [강의영상](https://www.youtube.com/watch?v=AThS1aUhwgE&t=0s&index=36&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
 - Console 다루기 - [강의영상](https://www.youtube.com/watch?v=pB_dzB06B_4&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=17&t=230s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE0jC9cIhQhLk1gBg)
 - Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://www.youtube.com/watch?v=OAL3qNGL6f0&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=18&t=8s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
 - print formatting - [강의영상](https://www.youtube.com/watch?v=dDfC-_3Ms7E&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=19&t=610s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
@@ -47,7 +48,6 @@
 - Code Assignment: gowithflow - [강의영상](https://www.youtube.com/watch?v=h6KNJlj3Vwk&t=12s&index=34&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
-- Function Concept I - [강의영상](https://www.youtube.com/watch?v=AThS1aUhwgE&t=0s&index=36&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
 - Function Concept II - [강의영상](https://www.youtube.com/watch?v=0ccHFT0-8bg&t=800s&index=37&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
 - Function arguments - [강의영상](https://www.youtube.com/watch?v=OR9mXlEq624&t=0s&index=38&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJnmZZsVZHdTh6e0A)
 - 코딩 컨벤션과 함수 작성법 - [강의영상](https://www.youtube.com/watch?v=rLcX9pHgOPg&t=0s&index=39&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
