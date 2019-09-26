@@ -36,7 +36,7 @@
 - Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://www.youtube.com/watch?v=OAL3qNGL6f0&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=18&t=8s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
 - print formatting - [강의영상](https://www.youtube.com/watch?v=dDfC-_3Ms7E&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=19&t=610s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
 - List Data Type - [강의영상](https://www.youtube.com/watch?v=EK-GzECYqh0&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=20&t=32s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaFa3AzW676PibQOCg)
-- Code Assignment: 학점 계산기 (exam_grader) - [강의영상 for Mac & Linux](https://www.youtube.com/watch?v=SYKdeYx75R4&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=21&t=3s), [강의영상 for Windows](https://www.youtube.com/watch?v=SYKdeYx75R4&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=21&t=3s)
+- Code Assignment: 학점 계산기 (exam_grader) - [숙제자료](./assignment/lab_3), [강의영상](https://www.youtube.com/watch?v=TIrSDV7JZ2E)
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
 - Condition - [강의영상](https://www.youtube.com/watch?v=em-K1ROzIlY&t=0s&index=24&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
