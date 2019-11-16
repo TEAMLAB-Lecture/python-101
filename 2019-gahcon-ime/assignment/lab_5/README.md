@@ -1,6 +1,7 @@
 Lab #5 - list, control, loop 연습 (gowithflow)
 ============================================
 Copyright 2017 © document created by TeamLab.Gachon@gmail.com
+Document modified by TeamLab.Gachon@gmail.com
 
 ## Introduction
 6주차임에도 불구하고 16주차처럼 느껴진다면 기분 탓일 겁니다. 기분좋게 Lab 5를 시작하는 여러분들을 환영합니다. 굉장히 어렵고 힘들게 느껴지겠지만, 실은 기초중에 기초를 하고 있다는 것에 좌절하지 않길 바랍니다.
@@ -15,9 +16,9 @@ Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 먼저 숙제 template 파일을 다운받아야 합니다. Chrome 또는 익스플로러와같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
 >
-https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_5/lab_5.zip
+https://github.com/TEAMLAB-Lecture/python-101/raw/master/2019-gahcon-ime/assignment/lab_5/lab_5.zip
 
-다운로드를 위해 View Raw 또는 Download 버튼을 클릭합니다. 또는 [Lab 5 - 다운로드 링크](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_5/lab_5.zip) 를 클릭하면 자동으로 다운로드가 됩니다. 다운로드 된 lab_5.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+다운로드를 위해 View Raw 또는 Download 버튼을 클릭합니다. 또는 [Lab 5 - 다운로드 링크](https://github.com/TEAMLAB-Lecture/python-101/raw/master/2019-gahcon-ime/assignment/lab_5/lab_5.zip) 를 클릭하면 자동으로 다운로드가 됩니다. 다운로드 된 lab_5.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
 
 ## 수정 해야할 함수 종류들
 숙제 파일을 다운로드 후 `atom`으로 숙제 파일을 살펴 봅시다.
