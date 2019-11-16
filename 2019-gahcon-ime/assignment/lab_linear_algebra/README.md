@@ -1,40 +1,13 @@
 
-# Lab #1 - Linear algebra basic I with python
+# Lab - Linear algebra basic with python
 ----------------------------------------------
 
 Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
 ## Introduction
-첫 번째 Lab을 제출하기 위해 생각보다 많은 삽질을 했을 것 입니다. 현대의 프로그래밍 환경에서 프로그래밍을 실행하기 위해 많은 것들을 준비해야 하고, 알아야 하는 것이 많습니다. 2016년 3월 12일 인간계왕 이세돌을 완벽하게 이긴 알파고는 총 1200대의 컴퓨터가 연결되어 파이썬 프로그램이 작동 된다고 합니다. "진짜 일"을 하기 위해서는 이런 부분에 대해서도 많은 이해가 필요합니다.
+그 동안 많은 숙제를 제출하기 위해 생각보다 많은 삽질을 했을 것 입니다. 현대의 프로그래밍 환경에서 프로그래밍을 실행하기 위해 많은 것들을 준비해야 하고, 알아야 하는 것이 많습니다. 2016년 3월 12일 인간계왕 이세돌을 완벽하게 이긴 알파고는 총 1200대의 컴퓨터가 연결되어 파이썬 프로그램이 작동 된다고 합니다. "진짜 일"을 하기 위해서는 이런 부분에 대해서도 많은 이해가 필요합니다.
 
-지금 당장 알파고 처럼 어려운 프로그램을 만들자는 얘기는 압니다. 알파고와 같은 복잡한 수업 공식을 프로그래밍 언어로 만들기 전에 수업 시간에 배운 간단한 선형 대수학의 표현들을 코드로 변환하는 법을 먼저 배울 것 입니다.  
-
-## 숙제 다운로드 받기
-먼저  Lab Template 파일을 다운로드 받으셔야 합니다. 다운로드를 받기 위해서는 python 파일 또는 jupyter notebook 파일을 생성하여 아래 코드를 실행 시켜야 한다.
-
-먼저 Lab을 다운로드하기 위하여는 아래와 같이 숙제를 다운로드하는 프로그램인 gachon-autograder-client을 여러분의 python interpreter에 설치하자. 참고로 본 설치는 앞으로의 Lab을 위해서 단 1회만 수행하면 된다.
-
-```bash
-pip install git+https://github.com/TeamLab/gachon-autograder-client.git
-```
-
-다음으로 Lab Template 파일을 다운로드 받자. 다운로드를 받기 위해서는 python 파일 또는 jupyter notebook 파일을 생성하여 아래 코드를 실행 시켜야 한다.
-
-```python
-import gachon_autograder_client as g_autograder
-
-THE_TEMLABIO_ID = "#YOUR_ID"
-PASSWORD = "#YOUR_PASSWORD"
-ASSIGNMENT_NAME = "linear_algebra_basic_I" # I는 대문자 i를 의미함
-
-g_autograder.get_assignment(THE_TEMLABIO_ID , PASSWORD, ASSIGNMENT_NAME)
-```
-
-위 소스 코드를 .py 파일 또는 jupyter notebook에 입력하여 파이썬으로 실행 시키면 "linear_algebra_basic_I.ipynb" 파일이 생성되며, `jupyter notebook`으로 실행하거나, 콘솔창(cmd)에서 해당 파일이 있는 폴더로 이동 후 아래와 같이 입력하면 해당 파일이 실행 될 것이다.
-
-```
-jupyter notebook linear_algebra_basic_I.ipynb
-```
+지금 당장 알파고 처럼 어려운 프로그램을 만들자는 얘기는 압니다. 알파고와 같은 복잡한 수학 공식을 프로그래밍 언어로 만들기 전에 수업 시간에 배운 간단한 선형 대수학의 표현들을 코드로 변환하는 법을 먼저 배울 것 입니다.  
 
 ## linear_algebra_basic_I.py 코드 구조
 
@@ -395,17 +368,7 @@ print(matrix_product(matrix_z, matrix_w)) # Expected value: False
 문제없이 숙제를 제출하면 아래 결과가 모두 PASS로 표시 될 것 입니다.
 
 
-```python
-import gachon_autograder_client as g_autograder
-
-THE_TEMLABIO_ID = "#YOUR_ID"
-PASSWORD = "#YOUR_PASSWORD"
-ASSIGNMENT_FILE_NAME = "linear_algebra_basic_I.ipynb"
-
-g_autograder.submit_assignment(THE_TEMLABIO_ID, PASSWORD, ASSIGNMENT_FILE_NAME)
-```
-
 ## Next Work
-고생하셨습니다. 처음 해보는 거라 너무 생소하게 느꼈을 가능성이 클거라고 생각합니다. "너무 어렵다"라는 말도 많이 했을 거 같습니다. 근데 그거 아세요? 이게 제일 쉬운 숙제입니다. 후훗 다음주에 봐요~
+고생하셨습니다. 그냥 고생하셨습니다...
 
 > **Human knowledge belongs to the world** - from movie 'Password' -
